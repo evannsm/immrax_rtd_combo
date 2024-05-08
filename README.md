@@ -20,7 +20,7 @@ In event we detect collision and we have compute time, we can differentiate the 
 ## Phase 4.
 Immrax to represent difference between high and low fidelity models
 
-
+## Deliverables:
 End of summer have a rough draft: ACC/ICRA submission (ICRA prefers hardware demos) -- get it done on quads!!! 
 MAY BE EASIER TO DO CONTROL WITH SOME SIMPLE LINEAR PD CONTROLLER BEFORE MELLINGER (MAYBE WARDI CONTROLLER)
 If we do hardware more reasonable to submit to RA-L (sam's never been successful here we can succeed !!!)
